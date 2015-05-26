@@ -1,0 +1,22 @@
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\NAudio.dll
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\NAudio.xml
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\LimitlessLEDcontroller.csprojResolveAssemblyReference.cache
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\LimitlessLEDcontroller.csproj.GenerateResource.Cache
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Redbeard\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\bin\Debug\LimitlessLEDcontroller.exe
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\bin\Debug\LimitlessLEDcontroller.pdb
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\bin\Debug\NAudio.dll
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\bin\Debug\NAudio.xml
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\obj\x86\Debug\LimitlessLEDcontroller.csprojResolveAssemblyReference.cache
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\obj\x86\Debug\LimitlessLEDcontroller.csproj.GenerateResource.Cache
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\obj\x86\Debug\LimitlessLEDcontroller.exe
+C:\visual studio 2010 Projects\LimitlessLEDcontroller\LimitlessLEDcontroller\obj\x86\Debug\LimitlessLEDcontroller.pdb
